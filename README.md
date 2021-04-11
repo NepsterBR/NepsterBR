@@ -10,3 +10,4 @@
 
 📚 Estou aprendendo JavaScript e desenvolvimento web (conhecimento em HTML e CSS), porém tenho muito interesse em Desenvolvimento mobile e Python.
 
+https://app.rocketseat.com.br/me/gabriel-ferreira-da-silva-1591603160
