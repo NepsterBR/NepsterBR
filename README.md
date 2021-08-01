@@ -2,10 +2,24 @@
 
 ### I'm a programming student  💻 (in Brazil 🌎)
 
-<p> 👤 At the moment I am 20 years old, I would like to have realized how much I ❤️ program and solve problems before, maybe today I would be much more evolved, anyway I have been studying hard and working hard to learn more about the subject, I really believe in work hard and I do it, it is also valid for studies, only in this way I will reach my goals, although I am unable to understand much now, I am studying for this and I need experience, so please invite me to assist in the development of any project ( even without pay, my focus now is to learn).</p>
+<p> 👤 At the moment I am 20 years old, I would like to have realized how much I ❤️ program and solve problems before.
+  
+- 💻 I work in administration (but eager to change areas).
+- 📚 I am learning Java and Kotlin.
 
-📚 I am learning Java and Kotlin.
-
-<p> 👤 Atualmente tenho 20 anos, gostaria de ter percebido o quanto eu ❤️ programar e solucionar problemas antes, talvez hoje estaria muito mais evoluído, de qualquer maneira venho estudando muito e dando duro para aprender cade vez mais sobre o assunto, eu realmente acredito no trabalho duro e faço isso, também vale para os estudos, somente dessa forma vou alcançar meus objetivos, embora eu não consiga entender muita coisa agora, estou estudando para isso e preciso de experiencia, então por favor me convide para auxiliar no desenvolvimento de qualquer  projeto (mesmo sem remuneração, meu foco agora é aprender. </p>
-
-📚 Estou aprendendo Java e Kotlin.
+<p> 👤 Atualmente tenho 20 anos, gostaria de ter percebido o quanto eu ❤️ programar e solucionar problemas antes.
+  
+- 💻 Trabalho com administração (mas ansioso para mudar de área).
+- 📚 Estou aprendendo Java e Kotlin.
+<h2></h2>  
+  <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NepsterBR&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NepsterBR&amp;layout=compact&amp;langs_count=7&amp;theme=dark" >
+</a></div>
+<h2></h2>
+<div>
+  <a href="https://discord.gg/7RA7PZ9yrM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrielnepster1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-97220b1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
+  </div>
