@@ -4,12 +4,12 @@
 
 <p> 👤 At the moment I am 20 years old, I would like to have realized how much I ❤️ program and solve problems before.
   
-- 💻 I work in administration (but eager to change areas).
+- 💻 I currently work as Develop Back End junior
 - 📚 I am learning Java and Kotlin.
 
 <p> 👤 Atualmente tenho 20 anos, gostaria de ter percebido o quanto eu ❤️ programar e solucionar problemas antes.
   
-- 💻 Trabalho com administração (mas ansioso para mudar de área).
+- 💻 Atualmente trabalho como Develop Back End junior
 - 📚 Estou aprendendo Java e Kotlin.
 <h2></h2>  
   <div>
